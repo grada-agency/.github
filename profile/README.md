@@ -14,7 +14,7 @@ With us, you get:
 1. A response to your questions within 10 minutes up to 72 hours without excuses.
 1. Support for up to 30 minutes after the project has been completed.
 
-[See our portfolio](../portfolio/)
+[See our portfolio](https://github.com/grada-agency/.github/tree/main/portfolio)
 
 <!--
 
