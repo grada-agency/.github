@@ -14,7 +14,13 @@ With us, you get:
 1. A response to your questions within 10 minutes up to 72 hours without excuses.
 1. Support for up to 30 minutes after the project has been completed.
 
-[See our portfolio](https://github.com/grada-agency/.github/tree/main/portfolio)
+[Visit our website](https://grada.cc)
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/company/grada-team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Grada on LinkedIn" height="30" width="40" /></a>
+</p>
 
 <!--
 
